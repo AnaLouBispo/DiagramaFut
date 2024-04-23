@@ -1,2 +1,1 @@
-
-<img src="/diagramaAtvd.png">
+<img src="/img/diagramaAtvd.png">
